@@ -15,6 +15,11 @@ npx tailwindcss init -p
 - Configure your template paths (follow the link above)
 - Add the Tailwind directives to your CSS (follow the link above)
 
+### Install [heroicons](https://github.com/tailwindlabs/heroicons) for Icon resource
+```bash
+yarn add @heroicons/react
+```
+
 
 ---
 
