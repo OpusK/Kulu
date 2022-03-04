@@ -1,19 +1,19 @@
 # Kulu: cloning hulu for study
 
 
-- Create next.js app
+### Create next.js app
 ```bash
 npx create-next-app kulu
 ```
 
-- [Install tailwindcss](https://tailwindcss.com/docs/guides/nextjs)
+### Install tailwindcss
+- [A guide for next.js](https://tailwindcss.com/docs/guides/nextjs)
 ```bash
 yarn add -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
-
-
-
+- Configure your template paths (follow the link above)
+- Add the Tailwind directives to your CSS (follow the link above)
 
 
 ---
