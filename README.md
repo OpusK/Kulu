@@ -20,6 +20,18 @@ npx tailwindcss init -p
 yarn add @heroicons/react
 ```
 
+### Install [tailwind-scrollbar-hide](https://www.npmjs.com/package/tailwind-scrollbar-hide)
+```bash
+yarn add tailwind-scrollbar-hide
+```
+- add plugin to tailwind.config.js
+```
+  plugins: [
+    require('tailwind-scrollbar-hide')
+    // ...
+  ]
+```
+
 
 ---
 
