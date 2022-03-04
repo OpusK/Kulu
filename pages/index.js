@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Header from '../component/Header'
 
 export default function Home() {
   return (
@@ -8,9 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>Let's cloning hulu!!</h1>
-
-      {/* Header */}
+      <Header/>
 
       {/* NavBar */}
 
