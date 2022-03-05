@@ -1,5 +1,6 @@
 # Kulu: cloning hulu for study
 
+- Request with query to [TMDB](https://www.themoviedb.org/) for getting movies & tv shows.
 
 ### Create next.js app
 ```bash
@@ -30,6 +31,11 @@ yarn add tailwind-scrollbar-hide
     require('tailwind-scrollbar-hide')
     // ...
   ]
+```
+
+### incstall [react-flip-move](https://www.npmjs.com/package/react-flip-move?activeTab=readme)
+```bash
+yarn add react-flip-move
 ```
 
 
